@@ -1,1 +1,17 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "frkp.site",
+        "namy.ws",
+        "myangular.life",
+        "obrut.show",
+        "ddbb.lol",
+        "stloadi.live",
+        "videoframe2.com",
+        "ufouxbwn.com"
+      ]
+    }
+  ]
+}
