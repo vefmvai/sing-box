@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "n8n.vefmvtech.ru"
+        "n8n.vefmvtech.ru",
+        "netusa.vefmvtech.ru"
       ]
     }
   ]
